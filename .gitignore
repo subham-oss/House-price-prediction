@@ -1,0 +1,48 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE and editor
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Dataset files (uncomment if you don't want to upload CSVs)
+# *.csv
